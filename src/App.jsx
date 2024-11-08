@@ -5,6 +5,7 @@ import TableUsers from "./Components/TableUsers";
 import "./style/App.scss";
 
 const App = () => {
+  const [listUsers, setListUsers] = useState([]);
   return (
     <>
       <ModalCreateUser />
