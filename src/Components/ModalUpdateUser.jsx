@@ -1,4 +1,4 @@
-const ModalUpdateUser = () => {
+const ModalUpdateUser = (props) => {
   return <div>ModalUpdateUser</div>;
 };
 
