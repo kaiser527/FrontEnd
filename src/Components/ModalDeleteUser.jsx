@@ -1,4 +1,4 @@
-const ModalDeleteUser = () => {
+const ModalDeleteUser = (props) => {
   return <div>ModalDeleteUser</div>;
 };
 
