@@ -1,4 +1,4 @@
-const TableUsers = () => {
+const TableUsers = (props) => {
   return <div>TableUsers</div>
 }
 
