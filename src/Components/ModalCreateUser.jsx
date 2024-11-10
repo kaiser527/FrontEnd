@@ -1,4 +1,4 @@
-const ModalCreateUser = () => {
+const ModalCreateUser = (props) => {
   return <div>ModalCreateUser</div>;
 };
 
